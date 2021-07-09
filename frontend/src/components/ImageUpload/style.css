@@ -1,0 +1,35 @@
+#image{
+    width: 500px;
+    height: 550px;
+    /* border:5px solid black; */
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 25px;
+    margin-bottom:25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .input{
+    display: none;
+  }
+  .label{
+    background: #d65858;
+    color: #fff;
+    font-size: 18px;
+    width: 150px;
+    text-align: center;
+    border: 0;
+    padding: 15px;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .label:hover {
+        background: #000;
+    color: #eb5424;
+  }

@@ -1,0 +1,23 @@
+{
+    "modules" : [
+        {
+            "id" : 1,
+            "title": "Forgery detection",
+            "description": "Detecting the probability of an image being compromised and mark the specific regions that could be forged",
+            "href": "/forgeryDetection"
+        },
+        {
+            "id" : 2,
+            "title": "Watermarking",
+            "description": "Marking the ownership of an image by embedding a watermark on it that belongs to its owner",
+            "href": "/watermarking"
+
+        },
+        {
+            "id" : 3,
+            "title": "Steganography",
+            "description": "Hiding private images and secrets inside other images to protect the privacy of data from eavesdroppers and transition across the internet",
+            "href": "/EncodeSteganography"
+        }
+    ]
+}

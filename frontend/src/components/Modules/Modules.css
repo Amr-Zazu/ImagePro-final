@@ -1,0 +1,40 @@
+#ModulePartForgery{
+    margin-left: 1%;
+}
+#ModulePartWatermarking{
+    margin-left: 16%;
+}
+#ModulePartSteganography{
+    margin-left: 16%;
+}
+#ModuleTitleFogery{
+    padding-top: 0%;
+}
+#ModuleTitleWatermarking{
+    padding-top: 10%;
+}
+#ModuleTitleSteganography{
+    padding-top: 10%;
+}
+#ModuleDescForgery{
+    padding: 12px;
+}
+#ModuleDescWatermarking{
+    padding: 22px;
+}
+#ModuleDescSteganography{
+    padding: 12px;
+}
+#btn_watermarking{
+    margin-top: 300px;
+ 
+}
+
+#btn_Steganography_encode{
+    margin-right: 13px;
+    padding: 10px;
+}
+#btn_Steganography_decode{
+    margin-left: 13px;
+    padding: 10px;
+}
